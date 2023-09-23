@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#fff</color>
+    <color name="purple_500">#fff</color>
+    <color name="purple_700">#ffff</color>
+    <color name="teal_200">#ffff</color>
+    <color name="teal_700">#fff</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="back">#033F38</color>
+    <color name="main_bg_color">#fff</color>
+
+    <color name="header_text_color">#001613</color>
+    <color name="popup_btn_color">#001613</color>
+    <color name="text_hint_color">#6C6B6B</color>
+
+    <color name="btntextColor">#ffff</color>
+
+
+</resources>

@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+
+        jcenter()
+        maven { url "https://jitpack.io" }
+        maven {
+            url "https://maven.google.com"
+        }
+        maven {
+            url "https://anythink.jfrog.io/artifactory/android_sdk"
+        }
+    }
+}
+rootProject.name = "Direct Message for WhatsApp"
+include ':app'

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Direct Message for WhatsApp</string>
+    <string name="d_chat">EZWhatsAppConnect</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_your_message">Message</string>
+    <string name="send">Send to whatsapp</string>
+</resources>
